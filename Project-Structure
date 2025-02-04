@@ -1,0 +1,22 @@
+personal-finance-tracker/
+│
+├── index.html
+├── style.css
+├── app.js (or App.js if you're using React)
+├── components/
+│   ├── Header.js
+│   ├── TransactionForm.js
+│   └── TransactionList.js
+├── assets/ (for any images/icons)
+└── README.md
+personal-finance-tracker/
+│
+├── index.html
+├── style.css
+├── app.js (or App.js if you're using React)
+├── components/
+│   ├── Header.js
+│   ├── TransactionForm.js
+│   └── TransactionList.js
+├── assets/ (for any images/icons)
+└── README.md
