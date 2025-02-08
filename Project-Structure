@@ -1,6 +1,6 @@
-personal-finance-tracker/
+Personal_Finance_Tracker/
 │
-├── index.html
+├── uiindex.html-changed from index.html
 ├── style.css
 ├── app.js (or App.js if you're using React)
 ├── components/
@@ -9,3 +9,4 @@ personal-finance-tracker/
 │   └── TransactionList.js
 ├── assets/ (for any images/icons)
 └── README.md
+delete index.html
