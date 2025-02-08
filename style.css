@@ -5,8 +5,8 @@
 }
 
 body {
-  font-family: Arial, sans-serif;
-  background-color: #f4f4f9;
+  font-family: 'Times New Roman';
+  background-color: #9c1df7;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -16,10 +16,10 @@ body {
 .container {
   width: 100%;
   max-width: 800px;
-  background-color: #fff;
+  background-color: #7564ea;
   padding: 20px;
   border-radius: 8px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 50px rgba(0, 0, 0, 0.1);
 }
 
 header {
